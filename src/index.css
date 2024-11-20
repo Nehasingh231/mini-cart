@@ -5,9 +5,20 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: rgb(191, 236, 221);
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+
+.item-cart{
+  color: brown;
+}
+.btn{
+  font-size: 15px;
+  border-radius: 5px;
+  padding:10px ;
 }
