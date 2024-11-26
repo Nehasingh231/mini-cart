@@ -5,7 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: rgb(191, 236, 221);
+  /* background-color: rgb(191, 236, 221); */
 }
 
 code {
@@ -21,4 +21,47 @@ code {
   font-size: 15px;
   border-radius: 5px;
   padding:10px ;
+}
+
+.btn1{
+  font-size: 15px;
+  border-radius: 5px;
+  padding:10px ;
+}
+
+
+           /* ********* */
+
+.page {
+  height: 100vh;
+  width: 100%;
+}
+
+.button1{
+  font-size: large;
+  border-radius: 5px;
+  padding: 7px 15px;
+  margin: 10px;
+  background-color: red;
+}
+.button2{
+  font-size: large;
+  border-radius: 5px;
+  padding: 7px 15px;
+  margin: 10px;
+  background-color: yellow;
+}
+.button3{
+  font-size: large;
+  border-radius: 5px;
+  padding: 7px 15px;
+  margin: 10px;
+  background-color: green;
+}
+.button4{
+  font-size: large;
+  border-radius: 5px;
+  padding: 7px 15px;
+  margin: 10px;
+  background-color: pink;
 }
